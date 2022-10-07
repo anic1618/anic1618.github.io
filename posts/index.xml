@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Bliss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Aug 2022 18:34:50 +0530</lastBuildDate><atom:link href="https://anic1618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Sep 2022 23:58:47 +0530</lastBuildDate><atom:link href="https://anic1618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offline Installation Python Packages</title>
+      <link>https://anic1618.github.io/posts/offline-installation-python-packages/</link>
+      <pubDate>Thu, 08 Sep 2022 23:58:47 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/posts/offline-installation-python-packages/</guid>
+      <description>Advantages of wheels 1. Faster installation for pure Python and native C extension packages. 2. Avoids arbitrary code execution for installation. (Avoids setup.py) 3. Installation of a C extension does not require a compiler on Linux, Windows or macOS. 4. Allows better caching for testing and continuous integration. 5. Creates .pyc files as part of installation to ensure they match the Python interpreter used. 6. More consistent installs across platforms and machines.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://anic1618.github.io/posts/my-first-post/</link>
