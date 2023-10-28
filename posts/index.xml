@@ -6,14 +6,35 @@
     <description>Recent content in Posts on Bliss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Sep 2022 23:58:47 +0530</lastBuildDate><atom:link href="https://anic1618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 01:29:59 +0530</lastBuildDate><atom:link href="https://anic1618.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Offline Installation Python Packages</title>
-      <link>https://anic1618.github.io/posts/offline-installation-python-packages/</link>
-      <pubDate>Thu, 08 Sep 2022 23:58:47 +0530</pubDate>
+      <title>Transformer</title>
+      <link>https://anic1618.github.io/posts/transformer/</link>
+      <pubDate>Thu, 11 May 2023 01:29:59 +0530</pubDate>
       
-      <guid>https://anic1618.github.io/posts/offline-installation-python-packages/</guid>
-      <description>Advantages of wheels 1. Faster installation for pure Python and native C extension packages. 2. Avoids arbitrary code execution for installation. (Avoids setup.py) 3. Installation of a C extension does not require a compiler on Linux, Windows or macOS. 4. Allows better caching for testing and continuous integration. 5. Creates .pyc files as part of installation to ensure they match the Python interpreter used. 6. More consistent installs across platforms and machines.</description>
+      <guid>https://anic1618.github.io/posts/transformer/</guid>
+      <description>https://nlp.seas.harvard.edu/2018/04/03/attention.html https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture08-transformers.pdf https://web.stanford.edu/class/cs224n/index.html#coursework</description>
+    </item>
+    
+    <item>
+      <title>Chatgpt</title>
+      <link>https://anic1618.github.io/posts/chatgpt/</link>
+      <pubDate>Tue, 02 May 2023 22:03:54 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/posts/chatgpt/</guid>
+      <description>GPT Generative Pre-training Transformer LLM
+ChatGPT is a spinoff of InstructGPT, which introduced a novel approach to incorporating human feedback into the training process to better align the model outputs with user intent. Reinforcement Learning from Human Feedback (RLHF) is described in depth in openAI’s 2022 paper Training language models to follow instructions with human feedback and is simplified below.
+Step 1: Supervised Fine Tuning (SFT) Model References how-chatgpt-actually-works</description>
+    </item>
+    
+    <item>
+      <title>Soap vs Rest vs Graphql vs Rpc</title>
+      <link>https://anic1618.github.io/posts/soap-vs-rest-vs-graphql-vs-rpc/</link>
+      <pubDate>Tue, 02 May 2023 11:14:56 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/posts/soap-vs-rest-vs-graphql-vs-rpc/</guid>
+      <description>altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/</description>
     </item>
     
     <item>

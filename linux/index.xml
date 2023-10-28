@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linuxes on Bliss</title>
+    <link>https://anic1618.github.io/linux/</link>
+    <description>Recent content in Linuxes on Bliss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://anic1618.github.io/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anic1618.github.io/linux/deduplicate-backup-recover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anic1618.github.io/linux/deduplicate-backup-recover/</guid>
+      <description>fdupes</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anic1618.github.io/linux/ssh-usage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anic1618.github.io/linux/ssh-usage/</guid>
+      <description>ssh portfowarding
+If you have SSH access to a remote system and want to access the internet through that system on your local machine, you can set up SSH tunneling or port forwarding to achieve this. Here&amp;rsquo;s a step-by-step guide:
+  Open a terminal or command prompt on your local system.
+  Establish an SSH connection to the remote system using the following command:
+ssh -D &amp;lt;local_port_number&amp;gt; &amp;lt;username&amp;gt;@&amp;lt;remote_system_address&amp;gt; Replace &amp;lt;local_port_number&amp;gt; with a port number of your choice (e.</description>
+    </item>
+    
+  </channel>
+</rss>

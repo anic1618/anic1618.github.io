@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pythons on Bliss</title>
+    <link>https://anic1618.github.io/python/</link>
+    <description>Recent content in Pythons on Bliss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2023 14:14:16 +0530</lastBuildDate><atom:link href="https://anic1618.github.io/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Language Implementation</title>
+      <link>https://anic1618.github.io/python/language-implementation/</link>
+      <pubDate>Sat, 15 Apr 2023 14:14:16 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/python/language-implementation/</guid>
+      <description>https://realpython.com/cpython-source-code-guide/
+The classical implementation, CPython, is often called just &amp;ldquo;Python&amp;rdquo; for short &amp;ndash; but it&amp;rsquo;s just one of several production-quality implementations, side by side with Microsoft&amp;rsquo;s IronPython (which compiles to CLR codes, i.e., &amp;ldquo;.NET&amp;rdquo;), Jython (which compiles to JVM codes), PyPy (which is written in Python itself and can compile to a huge variety of &amp;ldquo;back-end&amp;rdquo; forms including &amp;ldquo;just-in-time&amp;rdquo; generated machine language). These lower level forms are then executed by appropriate &amp;ldquo;virtual machines&amp;rdquo; also known as &amp;ldquo;interpreters&amp;rdquo; &amp;ndash; the CPython VM, the .</description>
+    </item>
+    
+    <item>
+      <title>Offline Installation Python Packages</title>
+      <link>https://anic1618.github.io/python/offline-installation-python-packages/</link>
+      <pubDate>Thu, 08 Sep 2022 23:58:47 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/python/offline-installation-python-packages/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Wheel</title>
+      <link>https://anic1618.github.io/python/wheel/</link>
+      <pubDate>Thu, 08 Sep 2022 23:58:47 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/python/wheel/</guid>
+      <description>Advantages of wheels 1. Faster installation for pure Python and native C extension packages. 2. Avoids arbitrary code execution for installation. (Avoids setup.py) 3. Installation of a C extension does not require a compiler on Linux, Windows or macOS. 4. Allows better caching for testing and continuous integration. 5. Creates .pyc files as part of installation to ensure they match the Python interpreter used. 6. More consistent installs across platforms and machines.</description>
+    </item>
+    
+  </channel>
+</rss>

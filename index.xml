@@ -6,13 +6,84 @@
     <description>Recent content on Bliss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Sep 2022 23:58:47 +0530</lastBuildDate><atom:link href="https://anic1618.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 01:29:59 +0530</lastBuildDate><atom:link href="https://anic1618.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transformer</title>
+      <link>https://anic1618.github.io/posts/transformer/</link>
+      <pubDate>Thu, 11 May 2023 01:29:59 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/posts/transformer/</guid>
+      <description>https://nlp.seas.harvard.edu/2018/04/03/attention.html https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture08-transformers.pdf https://web.stanford.edu/class/cs224n/index.html#coursework</description>
+    </item>
+    
+    <item>
+      <title>Chatgpt</title>
+      <link>https://anic1618.github.io/posts/chatgpt/</link>
+      <pubDate>Tue, 02 May 2023 22:03:54 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/posts/chatgpt/</guid>
+      <description>GPT Generative Pre-training Transformer LLM
+ChatGPT is a spinoff of InstructGPT, which introduced a novel approach to incorporating human feedback into the training process to better align the model outputs with user intent. Reinforcement Learning from Human Feedback (RLHF) is described in depth in openAI’s 2022 paper Training language models to follow instructions with human feedback and is simplified below.
+Step 1: Supervised Fine Tuning (SFT) Model References how-chatgpt-actually-works</description>
+    </item>
+    
+    <item>
+      <title>Soap vs Rest vs Graphql vs Rpc</title>
+      <link>https://anic1618.github.io/posts/soap-vs-rest-vs-graphql-vs-rpc/</link>
+      <pubDate>Tue, 02 May 2023 11:14:56 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/posts/soap-vs-rest-vs-graphql-vs-rpc/</guid>
+      <description>altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/</description>
+    </item>
+    
+    <item>
+      <title>Language Implementation</title>
+      <link>https://anic1618.github.io/python/language-implementation/</link>
+      <pubDate>Sat, 15 Apr 2023 14:14:16 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/python/language-implementation/</guid>
+      <description>https://realpython.com/cpython-source-code-guide/
+The classical implementation, CPython, is often called just &amp;ldquo;Python&amp;rdquo; for short &amp;ndash; but it&amp;rsquo;s just one of several production-quality implementations, side by side with Microsoft&amp;rsquo;s IronPython (which compiles to CLR codes, i.e., &amp;ldquo;.NET&amp;rdquo;), Jython (which compiles to JVM codes), PyPy (which is written in Python itself and can compile to a huge variety of &amp;ldquo;back-end&amp;rdquo; forms including &amp;ldquo;just-in-time&amp;rdquo; generated machine language). These lower level forms are then executed by appropriate &amp;ldquo;virtual machines&amp;rdquo; also known as &amp;ldquo;interpreters&amp;rdquo; &amp;ndash; the CPython VM, the .</description>
+    </item>
+    
+    <item>
+      <title>Overthinking</title>
+      <link>https://anic1618.github.io/lifehacks/overthinking/</link>
+      <pubDate>Fri, 07 Oct 2022 23:15:01 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/lifehacks/overthinking/</guid>
+      <description>src: https://psyche.co/guides/how-to-stop-overthinking-with-help-from-metacognitive-strategies
+Many people who, in trying to find answers or meaning, or in attempting to make the right decision, spend most of their waking hours scrutinising their minds for solutions. Ironically, in this process of trying to figure out how to proceed in life, they come to a standstill.
+When we spend too much time analysing our problems and dilemmas, we often end up more at a loss than we were to begin with.</description>
+    </item>
+    
+    <item>
+      <title>Competitiveness</title>
+      <link>https://anic1618.github.io/lifehacks/competitiveness/</link>
+      <pubDate>Fri, 07 Oct 2022 22:40:02 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/lifehacks/competitiveness/</guid>
+      <description>Competitiveness isn’t inherently good or bad, It can be motivating, encourage people to push themselves, expand their capacities and capabilities, and perform at a high level. Where it’s bad is where we compete in ways that are bad for other people.
+If winning the competition becomes the ultimate goal you may be willing to sacrifice things along the way that could be very bad.
+As per Psychology, we found that hypercompetitive individuals — those who have a need to win at all cost — were more impatient and irritable than their less-competitive counterparts and had higher self-reported health problems, including heart disease.</description>
+    </item>
+    
     <item>
       <title>Offline Installation Python Packages</title>
-      <link>https://anic1618.github.io/posts/offline-installation-python-packages/</link>
+      <link>https://anic1618.github.io/python/offline-installation-python-packages/</link>
       <pubDate>Thu, 08 Sep 2022 23:58:47 +0530</pubDate>
       
-      <guid>https://anic1618.github.io/posts/offline-installation-python-packages/</guid>
+      <guid>https://anic1618.github.io/python/offline-installation-python-packages/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Wheel</title>
+      <link>https://anic1618.github.io/python/wheel/</link>
+      <pubDate>Thu, 08 Sep 2022 23:58:47 +0530</pubDate>
+      
+      <guid>https://anic1618.github.io/python/wheel/</guid>
       <description>Advantages of wheels 1. Faster installation for pure Python and native C extension packages. 2. Avoids arbitrary code execution for installation. (Avoids setup.py) 3. Installation of a C extension does not require a compiler on Linux, Windows or macOS. 4. Allows better caching for testing and continuous integration. 5. Creates .pyc files as part of installation to ensure they match the Python interpreter used. 6. More consistent installs across platforms and machines.</description>
     </item>
     
@@ -23,6 +94,37 @@
       
       <guid>https://anic1618.github.io/posts/my-first-post/</guid>
       <description>Hello world</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anic1618.github.io/linux/deduplicate-backup-recover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anic1618.github.io/linux/deduplicate-backup-recover/</guid>
+      <description>fdupes</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anic1618.github.io/linux/ssh-usage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anic1618.github.io/linux/ssh-usage/</guid>
+      <description>ssh portfowarding
+If you have SSH access to a remote system and want to access the internet through that system on your local machine, you can set up SSH tunneling or port forwarding to achieve this. Here&amp;rsquo;s a step-by-step guide:
+  Open a terminal or command prompt on your local system.
+  Establish an SSH connection to the remote system using the following command:
+ssh -D &amp;lt;local_port_number&amp;gt; &amp;lt;username&amp;gt;@&amp;lt;remote_system_address&amp;gt; Replace &amp;lt;local_port_number&amp;gt; with a port number of your choice (e.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anic1618.github.io/post/transformer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anic1618.github.io/post/transformer/</guid>
+      <description></description>
     </item>
     
   </channel>
